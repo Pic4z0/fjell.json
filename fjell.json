@@ -1,0 +1,109 @@
+[
+{    
+    "fylkeNavn": "Akershus",
+    "fjellNavn": "Fjellsjøkampen",
+    "fjellHøyde": "812m"
+},
+
+{   
+    "fylkeNavn": "Buskerud",
+    "fjellNavn": "Folarskardnuten",
+    "fjellHøyde": "1933m"
+},
+
+{
+    "fylkeNavn": "Oppland",
+    "fjellNavn": "Galdhøpiggen",
+    "fjellHøyde": "2469m" 
+},
+
+{
+    "fylkeNavn": "Telemark",
+    "fjellNavn": "Gaustatoppen",
+    "fjellHøyde": "1883m" 
+},
+
+{
+    "fylkeNavn": "Hordaland",
+    "fjellNavn": "Hardangerjøkulen",
+    "fjellHøyde": "1861m"
+},
+
+{
+    "fylkeNavn": "Nord-Trøndelag",
+    "fjellNavn": "Jetnamsklumpen",
+    "fjellHøyde": "1512m"
+},
+
+{
+    "fylkeNavn": "Troms",
+    "fjellNavn": "Jiehkkevárri",
+    "fjellHøyde": "1834m"
+},
+
+{
+    "fylkeNavn": "Nordland",
+    "fjellNavn": "Oksskolten",
+    "fjellHøyde": "1915m"
+},
+
+{
+    "fylkeNavn": "Møre og Romsdal",
+    "fjellNavn": "Pyttegga",
+    "fjellHøyde": "1999m"
+},
+
+{
+    "fylkeNavn": "Hedmark",
+    "fjellNavn": "Rondslottet",
+    "fjellHøyde": "2178m"
+},
+
+{
+    "fylkeNavn": "Østfold",
+    "fjellNavn": "Slavasshøgda",
+    "fjellHøyde": "336m"
+},
+
+{
+    "fylkeNavn": "Sogn og Fjordane",
+    "fjellNavn": "Store Skagastølstinden",
+    "fjellHøyde": "2405m"
+},
+
+{
+    "fylkeNavn": "Sør-Trøndelag",
+    "fjellNavn": "Storskrymten",
+    "fjellHøyde": "1985m"
+},
+
+{
+    "fylkeNavn": "Aust-Agder",
+    "fjellNavn": "Sæbyggjenuten",
+    "fjellHøyde": "1507m"
+},
+
+{
+    "fylkeNavn": "Vest-Agder",
+    "fjellNavn": "Urdalsknuten",
+    "fjellHøyde": "1433m"
+},
+
+{
+    "fylkeNavn": "Rogaland",
+    "fjellNavn": "Vassdalseggi",
+    "fjellHøyde": "1658m"
+},
+
+{
+    "fylkeNavn": "Vestfold",
+    "fjellNavn": "Vestfjellet",
+    "fjellHøyde": "634m"
+},
+
+{
+    "fylkeNavn": "Finnmark",
+    "fjellNavn": "Øksfjordjøkelen",
+    "fjellHøyde": "1191m"
+}
+]
